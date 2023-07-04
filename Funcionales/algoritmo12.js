@@ -4,7 +4,8 @@
 
 const myFunction = (a, b, c, d, e, f) => {
 
-return 
+return (((a+b) - c) * d /e) **f;
 }
 
 console.log(myFunction(6,5,4,3,2,1))
+
