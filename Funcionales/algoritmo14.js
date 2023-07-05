@@ -11,3 +11,4 @@ console.log(myFunction(10))
 console.log(myFunction(-4))
 console.log(myFunction(5))
 
+// numero divisible 
