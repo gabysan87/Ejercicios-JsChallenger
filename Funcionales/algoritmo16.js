@@ -14,3 +14,4 @@ console.log(myFunction(1.123))
 console.log(myFunction(1048))
 
 // Number.isInteger() El método determina si el valor proporcionado es un número entero o no.
+// Usamos el Math.floor()método redondea un número HACIA ABAJO al entero más cercano.

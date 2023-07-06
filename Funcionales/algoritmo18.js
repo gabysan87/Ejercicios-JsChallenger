@@ -11,3 +11,4 @@ console.log(myFunction(2.12397))
 console.log(myFunction(3.136))
 
 // El toFixed()método redondea la cadena a un número específico de decimales.
+
